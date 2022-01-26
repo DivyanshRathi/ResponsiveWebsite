@@ -1,0 +1,7 @@
+.network {
+  height: 30%;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  height: 13em;
+}

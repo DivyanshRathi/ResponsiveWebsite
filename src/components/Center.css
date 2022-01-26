@@ -1,0 +1,33 @@
+.top_element h1 {
+  color: rgb(4, 62, 62);
+  width: 50%;
+  margin: auto auto;
+  padding-top: 2em;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.top_element {
+  text-align: center;
+}
+
+.top_element p {
+  margin-top: 2em;
+  display: inline-block;
+  width: 40%;
+  margin-bottom: 1em;
+}
+
+.center_button {
+  width: 10%;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  padding: 0.5em;
+  border: none;
+  color: white;
+  background-image: linear-gradient(
+    to right,
+    rgba(90, 190, 218, 0.911),
+    rgba(0, 132, 103, 0.884)
+  );
+}
