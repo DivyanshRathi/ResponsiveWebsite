@@ -12,7 +12,7 @@ function Center() {
     </div>
     <div className="top_element">
       <button className="center_button">
-        Explore Course
+        Explore Program
       </button>
     </div>
   </div>
